@@ -27,7 +27,6 @@ int main()
 	string s2="";
 	int n=s1.size();
 	int a[n]={0};
-
 	permituations(s1,s2,a,n);
 	return 0;
 }
